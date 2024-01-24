@@ -5,6 +5,8 @@ import os
 app = Flask(__name__)
 
 nginx_conf_path = '/etc/nginx/nginx.conf'
+container_name = ''
+
 
 @app.route('/')
 def index():
@@ -22,7 +24,6 @@ def edit():
 
 @app.route('/save', methods=['POST'])
 def save():
-    container_name = request.form['container_name']
     content = request.form['content']
 
     # Registra o conteúdo no arquivo no sistema de arquivos local

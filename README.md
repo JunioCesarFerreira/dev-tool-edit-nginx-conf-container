@@ -35,7 +35,7 @@ O aplicativo estará disponível em http://localhost:5000/.
 ## Uso
 
 1. Acesse http://localhost:5000/ no seu navegador.
-2. Clique em "Editar".
+2. Clique em "Edit nginx.conf".
 3. Insira o caminho do arquivo (por exemplo, `/etc/nginx/nginx.conf`).
 4. Modifique o conteúdo do arquivo conforme necessário.
 5. Clique em "Registrar" para salvar as alterações no arquivo e reiniciar o container.
@@ -52,5 +52,16 @@ O aplicativo estará disponível em http://localhost:5000/.
 ## License
 
 This project is licensed under the MIT License - see file [LICENSE](LICENSE) for details.
+
+---
+
+## Contribuição
+Contribuições são sempre bem-vindas! Para contribuir:
+
+1. Faça um fork do projeto.
+2. Crie uma nova branch para suas modificações (`git checkout -b feature/AmazingFeature`).
+3. Faça commit de suas alterações (`git commit -m 'Add some AmazingFeature'`).
+4. Faça push para a branch (`git push origin feature/AmazingFeature`).
+5. Abra um Pull Request.
 
 ---
