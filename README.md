@@ -51,6 +51,6 @@ O aplicativo estará disponível em http://localhost:5000/.
 
 ## License
 
-This project is licensed under the MIT License - see file [LICENSE.md](LICENSE.md) for details.
+This project is licensed under the MIT License - see file [LICENSE](LICENSE) for details.
 
 ---
