@@ -42,6 +42,8 @@ The application will be available at http://localhost:5000/.
 4. Modify the file content as needed.
 5. Click "Save" to save the changes to the file and restart the container.
 
+![print](./resource/print.gif)
+
 ---
 
 ## Important Notes

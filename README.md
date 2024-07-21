@@ -42,6 +42,8 @@ O aplicativo estará disponível em http://localhost:5000/.
 4. Modifique o conteúdo do arquivo conforme necessário.
 5. Clique em "Registrar" para salvar as alterações no arquivo e reiniciar o container.
 
+![print](./resource/print.gif)
+
 ---
 
 ## Notas Importantes
