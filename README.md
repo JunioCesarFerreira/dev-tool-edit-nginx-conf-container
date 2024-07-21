@@ -1,5 +1,7 @@
 # Dev Tool Edit Nginx Configuration in Docker Container
 
+🌍 *[Português](README.md) ∙ [English](README_en.md)*
+
 ## Descrição
 Este projeto é uma ferramenta de desenvolvimento para editar arquivos de configuração do Nginx em containers Docker. Permite aos usuários especificar o nome do container e editar o arquivo `nginx.conf` diretamente através de uma interface web.
 
@@ -45,7 +47,7 @@ O aplicativo estará disponível em http://localhost:5000/.
 ## Notas Importantes
 
 - Este projeto é destinado apenas para fins de desenvolvimento local.
-- Modificar diretamente arquivos em um container em execução em ambientes de produção é uma prática arriscada.
+- **Atenção**: Não use esta ferramenta em ambientes de produção. Modificar arquivos diretamente em um contêiner em ambiente de produção é uma prática arriscada e pode levar a comportamentos inesperados e vulnerabilidades de segurança.
 
 ---
 
