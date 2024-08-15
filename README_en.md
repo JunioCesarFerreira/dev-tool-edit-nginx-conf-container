@@ -1,6 +1,6 @@
 # Dev Tool Edit Nginx Configuration in Docker Container
 
-🌍 *[Português](README.md) ∙ [English](README_en.md)*
+🌍 *[Português](README.md) ∙ [**English**](README_en.md)*
 
 ## Description
 This project is a development tool for editing Nginx configuration files in Docker containers. It allows users to specify the container name and edit the `nginx.conf` file directly through a web interface.
@@ -53,12 +53,6 @@ The application will be available at http://localhost:5000/.
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contribution
 Contributions are always welcome! To contribute:
 
@@ -67,5 +61,11 @@ Contributions are always welcome! To contribute:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
